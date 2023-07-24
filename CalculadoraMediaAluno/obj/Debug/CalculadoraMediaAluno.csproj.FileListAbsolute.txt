@@ -1,0 +1,11 @@
+C:\Workspace\CalculadoraMediaAluno\CalculadoraMediaAluno\bin\Debug\CalculadoraMediaAluno.exe.config
+C:\Workspace\CalculadoraMediaAluno\CalculadoraMediaAluno\bin\Debug\CalculadoraMediaAluno.exe
+C:\Workspace\CalculadoraMediaAluno\CalculadoraMediaAluno\bin\Debug\CalculadoraMediaAluno.pdb
+C:\Workspace\CalculadoraMediaAluno\CalculadoraMediaAluno\obj\Debug\CalculadoraMediaAluno.csproj.AssemblyReference.cache
+C:\Workspace\CalculadoraMediaAluno\CalculadoraMediaAluno\obj\Debug\CalculadoraMediaAluno.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\CalculadoraMediaAluno\CalculadoraMediaAluno\obj\Debug\CalculadoraMediaAluno.Form1.resources
+C:\Workspace\CalculadoraMediaAluno\CalculadoraMediaAluno\obj\Debug\CalculadoraMediaAluno.Properties.Resources.resources
+C:\Workspace\CalculadoraMediaAluno\CalculadoraMediaAluno\obj\Debug\CalculadoraMediaAluno.csproj.GenerateResource.cache
+C:\Workspace\CalculadoraMediaAluno\CalculadoraMediaAluno\obj\Debug\CalculadoraMediaAluno.csproj.CoreCompileInputs.cache
+C:\Workspace\CalculadoraMediaAluno\CalculadoraMediaAluno\obj\Debug\CalculadoraMediaAluno.exe
+C:\Workspace\CalculadoraMediaAluno\CalculadoraMediaAluno\obj\Debug\CalculadoraMediaAluno.pdb
